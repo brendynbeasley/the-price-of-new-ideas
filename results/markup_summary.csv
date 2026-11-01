@@ -1,0 +1,2 @@
+pcm_all_manufacturing,rd_intensity_all_manufacturing,shipments_all_manufacturing_bn,industries,corr_pcm_rd,spearman_pcm_rd,mean_pcm_top_rd_tercile,mean_pcm_bottom_rd_tercile,mean_rd_top_tercile,mean_rd_bottom_tercile
+0.28209,0.05087,7048.66367,36,-0.15142,-0.23166,0.27939,0.32126,0.12056,0.00783

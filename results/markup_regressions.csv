@@ -1,0 +1,6 @@
+model,n,const,const_se,b_rd,se_rd,ci_low,ci_high,p_b_eq_0,p_b_eq_1,r2,b_capital,se_capital,b_advertising,se_advertising
+PCM on R&D intensity,36,0.31589,0.01924,-0.23856,0.34402,-0.91283,0.4357,0.48802,0.00032,0.02293,,,,
+"PCM on R&D intensity, shipment-weighted",36,0.26649,0.02374,0.51538,0.56499,-0.59197,1.62274,0.36166,0.39103,0.06749,,,,
+"PCM on R&D, capital and advertising intensity",36,0.16141,0.05582,-0.24645,0.26554,-0.7669,0.274,0.35335,0.0,0.43342,0.22329,0.08531,20.87196,8.15837
+"PCM on R&D intensity, excluding pharmaceuticals",35,0.32301,0.01848,-0.56101,0.21809,-0.98845,-0.13357,0.0101,0.0,0.14624,,,,
+"PCM on R&D intensity, excluding petroleum and tobacco/beverages",34,0.31217,0.01671,-0.2115,0.33796,-0.87388,0.45089,0.53144,0.00034,0.0217,,,,

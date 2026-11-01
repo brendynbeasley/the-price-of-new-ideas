@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Partial downloads written by the scripts
+*.part
+
+# Secrets (none are needed, but never commit them)
+*.key
+.env
+
+# OS files
+.DS_Store
